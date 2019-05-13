@@ -2,7 +2,7 @@ class Gw < Formula
   desc "A Wapper a command to watch a filesystem change"
   homepage "https://github.com/mattdamon108/gw"
   url "https://github.com/mattdamon108/gw/releases/download/v0.3.0/gw-0.3.0.tar.gz"
-  sha256 "c4c9bbb1d1bf3bc135d64bd831fca55c01a5f161ba52a987a2ed7fb97b3b5907"
+  sha256 "581551273f90104f3c32c7df63f17a0176b4462b013ddb27cc02537c257be010"
 
   bottle :unneeded
 
