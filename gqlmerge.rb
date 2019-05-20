@@ -1,8 +1,8 @@
 class Gqlmerge < Formula
   desc "A merge and stitch tool for GraphQL schema"
   homepage "https://github.com/mattdamon108/gqlmerge"
-  url "https://github.com/mattdamon108/gqlmerge/releases/download/v0.1.3/gqlmerge-0.1.3.tar.gz"
-  sha256 "6b7543a7969c99d01f60807644aa1887208d0d5b46b7427c066d310f38d6f50c"
+  url "https://github.com/mattdamon108/gqlmerge/releases/download/v0.1.4/gqlmerge-0.1.4.tar.gz"
+  sha256 "c73d8eb944cb67eebbd286cfe742c97620d35a748feb9f881d2b7c21ac88ca4e"
 
   bottle :unneeded
 
