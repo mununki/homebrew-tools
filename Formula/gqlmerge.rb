@@ -5,7 +5,7 @@ class Gqlmerge < Formula
   sha256 "af21dfde586da9549e83d031bbcefb96d530c8b59846a57f77f0da0f1d35c3f4"
 
   def install
-    bin.install "gqlmerge"
+    bin.install "gqlmerge-macos" => "gqlmerge"
   end
 
   test do
