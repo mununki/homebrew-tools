@@ -1,8 +1,8 @@
 class Gqlmerge < Formula
   desc "A merge and stitch tool for GraphQL schema"
   homepage "https://github.com/mununki/gqlmerge"
-  url "https://github.com/mununki/gqlmerge/releases/download/v0.2.16/gqlmerge-0.2.16.tar.gz"
-  sha256 "d9f2c3d593d3ae624f6a30fa7fc30ea1f35c0cea1dbcf98587abca77db5e9c26"
+  url "https://github.com/mununki/gqlmerge/releases/download/fix-release-ci/gqlmerge-0.2.17.tar.gz"
+  sha256 "51e477d2457481df9ce59e2c64ce799c85b371d3f410eb67c3e62ca0cd89a770"
 
   def install
     bin.install "gqlmerge-macos" => "gqlmerge"
